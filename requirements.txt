@@ -1,0 +1,4 @@
+django
+psycopg2
+sqlparse
+dj_database_url
